@@ -1,0 +1,5 @@
+.DS_Store // for mac
+node_modules
+.tmp
+.sass-cache
+builds/**/images/*
